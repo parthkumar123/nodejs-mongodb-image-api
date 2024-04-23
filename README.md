@@ -49,3 +49,5 @@ npm start
 ```
 
 The API will be accessible at `http://localhost:3000`.
+
+Note : To upload Images, request body should be of type form-data and Key should be images.
